@@ -1,5 +1,8 @@
 # About this Repo
 
+This is a Fork from https://github.com/influxdata/influxdata-docker.
+
+
 This is the Git repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [chronograf](https://registry.hub.docker.com/_/chronograf/). See [the Docker Hub page](https://registry.hub.docker.com/_/chronograf/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
 
 The full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs), specifically in [docker-library/docs/chronograf](https://github.com/docker-library/docs/tree/master/chronograf).
